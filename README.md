@@ -1,4 +1,20 @@
-## Olá! Meu nome é Marcos Vogado!
+# Olá, eu sou Marcos! 👋
+
+## 🔭 O que eu faço?
+
+- Tenho interesse em ciência de dados, IA, banco de dados e etc...
+- Sou apaixonado(a) por codar, aprender, compartilhar conhecimento.
+
+## 🚀 Minhas habilidades
+
+- **Linguagens de Programação:** Python, JavaScript, Java, etc.
+- **Frameworks e Bibliotecas:** React, Django, Flask, etc.
+- **Ferramentas e Plataformas:** VSCode, Git, Docker, etc.
+
+## 🌱 Atualmente estudando
+
+- IA, DevOps, etc.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
@@ -19,6 +35,6 @@
   <a href="https://www.youtube.com/@marcoshenrique2007" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/henr1._xs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcoshcvogado@sempreceub.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hélio-283816295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcos-vogado-65a959332/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
